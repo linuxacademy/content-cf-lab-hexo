@@ -1,0 +1,6 @@
+applications:
+- name: hexojs
+  instances: 1
+  memory: 256m
+  disk_quota: 256m
+  random-route: true
